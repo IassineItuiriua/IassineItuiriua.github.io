@@ -1,2 +1,2 @@
-# IassineItuiriua.github.io
-criaçao do site
+# eMozaGameServer
+ repositorio do servidor do aplicativo eMozaGame
